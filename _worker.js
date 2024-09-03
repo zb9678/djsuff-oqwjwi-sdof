@@ -14,10 +14,12 @@ let cacheTTL = 24 ;//小时，缓存时长
 
 //节点链接 + 订阅链接
 let MainData = `
-https://zyh.z07.us.kg/sub/b2ca329a-f595-4b17-92ec-c59604e64f9c#BPB-Normal
-https://bp.zcr07.findhere.org/sub/2b152099-977d-4b23-9e00-a7f9108c65ea#BPB-Normal
-https://zbpb.r07.cloudns.be/sub/8abf406e-95c3-4886-aba4-dae9dd66124a#BPB-Normal
-https://xb.zcr07.rr.nu/sub/37691131-db68-49bc-b1bb-840277c54390#BPB-Normal
+https://ddd.zcr07.us.kg/zbb
+https://edg.zbb07.us.kg/6bf3079b-b0c4-4206-9578-e0b6813b102b
+https://afei.zb9.us.kg/zbb
+https://ygt.n06.us.kg/trojan/pty
+https://ygt.z07.rr.nu/trojan/pty
+https://ygtrj.zcr07.us.kg/trojan/pty
 
 `
 
